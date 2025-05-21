@@ -13,7 +13,7 @@ class DownloadChromeDriver extends Command
 
     public function handle()
     {
-        $binDir = base_path('.vendor/laravel/dusk/bin');
+        $binDir = base_path('vendor/laravel/dusk/bin/');
         if (!is_dir($binDir)) {
             mkdir($binDir, 0755, true);
         }
