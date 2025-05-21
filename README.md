@@ -16,7 +16,24 @@
 
 ---
 
-[![Latest Stable Version](http://poser.pugx.org/zgetro/laravel-dusk-chromedriver/v)](https://packagist.org/packages/zgetro/laravel-dusk-chromedriver) [![Total Downloads](http://poser.pugx.org/zgetro/laravel-dusk-chromedriver/downloads)](https://packagist.org/packages/zgetro/laravel-dusk-chromedriver) [![Latest Unstable Version](http://poser.pugx.org/zgetro/laravel-dusk-chromedriver/v/unstable)](https://packagist.org/packages/zgetro/laravel-dusk-chromedriver) [![License](http://poser.pugx.org/zgetro/laravel-dusk-chromedriver/license)](https://packagist.org/packages/zgetro/laravel-dusk-chromedriver) [![PHP Version Require](http://poser.pugx.org/zgetro/laravel-dusk-chromedriver/require/php)](https://packagist.org/packages/zgetro/laravel-dusk-chromedriver)
+<p align="center">
+    <a href="https://packagist.org/packages/zgetro/laravel-dusk-chromedriver">
+        <img src="https://poser.pugx.org/zgetro/laravel-dusk-chromedriver/v" alt="Latest Stable Version" />
+    </a>
+    <a href="https://packagist.org/packages/zgetro/laravel-dusk-chromedriver">
+        <img src="https://poser.pugx.org/zgetro/laravel-dusk-chromedriver/downloads" alt="Total Downloads" />
+    </a>
+    <a href="https://packagist.org/packages/zgetro/laravel-dusk-chromedriver">
+        <img src="https://poser.pugx.org/zgetro/laravel-dusk-chromedriver/v/unstable" alt="Latest Unstable Version" />
+    </a>
+    <a href="https://packagist.org/packages/zgetro/laravel-dusk-chromedriver">
+        <img src="https://poser.pugx.org/zgetro/laravel-dusk-chromedriver/license" alt="License" />
+    </a>
+    <a href="https://packagist.org/packages/zgetro/laravel-dusk-chromedriver">
+        <img src="https://poser.pugx.org/zgetro/laravel-dusk-chromedriver/require/php" alt="PHP Version Require" />
+    </a>
+</p>
+
 
 ### 🧩 Features
 
