@@ -53,7 +53,7 @@
 ### 🚀 Installation
 
 ```bash
-composer require your-vendor/laravel-dusk-chromedriver --dev
+composer require zgetro/laravel-dusk-chromedriver --dev
 ```
 
 ### 🛠️ Usage
