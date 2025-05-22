@@ -59,7 +59,7 @@ composer require zgetro/laravel-dusk-chromedriver --dev
 ### 🛠️ Usage
 
 ```bash
-php artisan chromedriver:download
+php artisan dusk:download-chromedriver
 ```
 #### By default, this will:
 - Detect the local Chrome version
@@ -69,7 +69,7 @@ php artisan chromedriver:download
 
 ### 🧬 Download All Drivers
 ```bash
-php artisan chromedriver:download --all
+php artisan dusk:download-chromedriver --all
 ``` 
 This downloads all supported platform drivers — ideal for testing or CI.
 
